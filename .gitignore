@@ -1,0 +1,7 @@
+data/
+output/
+logs/
+__pycache__/
+*.pyc
+submission_B.csv
+.DS_Store

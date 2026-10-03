@@ -1,0 +1,5 @@
+```markdown
+投保年龄
+
+<table><thead><tr><th>保单年度末</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr></thead><tbody><tr><td>1</td><td>55.57</td><td>56.83</td><td>58.06</td><td>59.26</td><td>60.46</td><td>61.66</td><td>62.87</td><td>64.10</td><td>65.34</td><td>66.59</td></tr><tr><td>2</td><td>213.28</td><td>215.58</td><td>217.78</td><td>219.91</td><td>222.01</td><td>224.11</td><td>226.22</td><td>228.35</td><td>230.50</td><td>232.67</td></tr><tr><td>3</td><td>575.58</td><td>578.63</td><td>581.50</td><td>584.27</td><td>586.99</td><td>589.71</td><td>592.44</td><td>595.19</td><td>597.95</td><td>600.73</td></tr><tr><td>4</td><td>1547.49</td><td>1550.72</td><td>1553.74</td><td>1556.65</td><td>1559.51</td><td>1562.36</td><td>1565.21</td><td>1568.08</td><td>1570.95</td><td>1573.84</td></tr></tbody></table>
+```

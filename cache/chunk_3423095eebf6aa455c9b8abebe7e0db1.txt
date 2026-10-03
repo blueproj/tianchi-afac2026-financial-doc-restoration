@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>91</td><td>库鲁病</td></tr><tr><td>92</td><td>疾病或外伤所致智力障碍</td></tr><tr><td>93</td><td>严重幼年型类风湿性关节炎——十八周岁前理赔</td></tr><tr><td>94</td><td>席汉氏综合征</td></tr><tr><td>95</td><td>脊柱裂</td></tr><tr><td>96</td><td>弥漫性血管内凝血</td></tr><tr><td>97</td><td>血管性痴呆</td></tr><tr><td>98</td><td>额颞叶痴呆</td></tr><tr><td>99</td><td>路易体痴呆</td></tr><tr><td>100</td><td>亚急性硬化性全脑炎</td></tr><tr><td>101</td><td>进行性风疹性全脑炎</td></tr><tr><td>102</td><td>败血症导致的多器官功能障碍综合症</td></tr><tr><td>103</td><td>头臂动脉型多发性大动脉炎旁路移植手术</td></tr><tr><td>104</td><td>范可尼综合征</td></tr></table>
+```

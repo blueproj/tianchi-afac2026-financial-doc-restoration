@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>6,078.75</td><td>6,077.17</td><td>6,015.75</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6,200.17</td><td>6,137.64</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6,261.86</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+```

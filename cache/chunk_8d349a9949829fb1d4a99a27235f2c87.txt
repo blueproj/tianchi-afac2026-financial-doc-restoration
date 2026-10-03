@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>保单年度末\年龄</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>199</td><td>203</td><td>206</td><td>210</td><td>214</td></tr><tr><td>1</td><td>207</td><td>210</td><td>214</td><td>219</td><td>223</td></tr><tr><td>2</td><td>215</td><td>219</td><td>223</td><td>227</td><td>232</td></tr><tr><td>3</td><td>223</td><td>227</td><td>232</td><td>236</td><td>241</td></tr></table>
+```

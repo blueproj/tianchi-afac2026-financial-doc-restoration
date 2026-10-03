@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>64</td><td>失去一肢及一眼</td></tr><tr><td>65</td><td>嗜铬细胞瘤</td></tr><tr><td>66</td><td>颅脑手术</td></tr><tr><td>67</td><td>严重自身免疫性肝炎</td></tr><tr><td>68</td><td>原发性骨髓纤维化</td></tr><tr><td>69</td><td>严重获得性或继发性肺泡蛋白质沉积症</td></tr><tr><td>70</td><td>严重慢性缩窄性心包炎</td></tr><tr><td>71</td><td>脑型疟疾</td></tr><tr><td>72</td><td>胆道重建手术</td></tr><tr><td>73</td><td>主动脉夹层瘤</td></tr><tr><td>74</td><td>肌萎缩脊髓侧索硬化后遗症</td></tr><tr><td>75</td><td>严重结核性脑膜炎</td></tr><tr><td>76</td><td>严重肠道疾病并发症</td></tr></table>
+```

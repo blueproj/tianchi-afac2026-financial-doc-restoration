@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>67572.4</td><td>68578.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>68548</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+```

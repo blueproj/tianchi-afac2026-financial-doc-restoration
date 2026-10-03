@@ -1,0 +1,7 @@
+```markdown
+<table><tr><td>33</td><td>轻度坏死性筋膜炎</td></tr><tr><td>34</td><td>轻度弥漫性硬化</td></tr><tr><td>35</td><td>轻度闭锁综合征</td></tr></table>
+
+## 中症疾病
+
+<table><tr><td>01</td><td>中度进行性核上性麻痹</td></tr><tr><td>02</td><td>中度脊髓灰质炎</td></tr><tr><td>03</td><td>严重甲型及乙型血友病</td></tr><tr><td>04</td><td>单侧肺脏切除</td></tr><tr><td>05</td><td>中度类风湿性关节炎</td></tr><tr><td>06</td><td>中度肠道并发症</td></tr><tr><td>07</td><td>中度阿尔茨海默病</td></tr><tr><td>08</td><td>中度原发性帕金森氏病</td></tr><tr><td>09</td><td>中度脑损伤</td></tr><tr><td>10</td><td>中度运动神经元病</td></tr><tr><td>11</td><td>腔静脉过滤器植入术</td></tr><tr><td>12</td><td>中度肌营养不良症</td></tr></table>
+```

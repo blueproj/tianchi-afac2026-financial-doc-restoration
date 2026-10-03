@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>保10年</td><td>3</td><td>男性</td><td>7</td><td>5</td><td>2837.99</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>7</td><td>6</td><td>2979.87</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>7</td><td>7</td><td>3128.84</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>7</td><td>8</td><td>3285.26</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>7</td><td>9</td><td>3449.50</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>7</td><td>10</td><td>0.00</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>8</td><td>1</td><td>639.04</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>8</td><td>2</td><td>1538.46</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>8</td><td>3</td><td>2574.27</td></tr></table>
+```

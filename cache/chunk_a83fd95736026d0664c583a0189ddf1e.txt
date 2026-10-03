@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>08</td><td>急性重症肝炎或亚急性重症肝炎</td></tr><tr><td>09</td><td>严重非恶性颅内肿瘤</td></tr><tr><td>10</td><td>严重慢性肝衰竭</td></tr><tr><td>11</td><td>严重脑炎后遗症或严重脑膜炎后遗症</td></tr><tr><td>12</td><td>深度昏迷</td></tr><tr><td>13</td><td>双耳失聪——三周岁后始理赔</td></tr><tr><td>14</td><td>双目失明——三周岁后始理赔</td></tr><tr><td>15</td><td>瘫痪</td></tr><tr><td>16</td><td>心脏瓣膜手术</td></tr><tr><td>17</td><td>严重阿尔茨海默病</td></tr></table>
+```

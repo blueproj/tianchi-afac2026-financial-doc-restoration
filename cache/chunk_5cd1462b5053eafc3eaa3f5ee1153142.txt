@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>1,430</td><td>1,429</td><td>1,429</td></tr><tr><td>1,458</td><td>1,458</td><td>1,458</td></tr><tr><td>1,487</td><td>1,487</td><td>1,487</td></tr><tr><td>1,517</td><td>1,516</td><td>1,516</td></tr><tr><td>1,547</td><td>1,547</td><td>1,547</td></tr><tr><td>1,578</td><td>1,578</td><td>1,578</td></tr><tr><td>1,610</td><td>1,609</td><td>1,609</td></tr><tr><td>1,642</td><td>1,641</td><td>1,641</td></tr><tr><td>1,675</td><td>1,674</td><td>1,674</td></tr><tr><td>1,708</td><td>1,708</td><td>1,708</td></tr><tr><td>1,742</td><td>1,742</td><td>1,742</td></tr><tr><td>1,777</td><td>1,777</td><td>1,777</td></tr></table>
+```

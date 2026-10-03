@@ -1,0 +1,5 @@
+```markdown
+<table><tr><td>脑颅骨(注2)骨折</td><td></td><td></td><td></td></tr><tr><td>椎骨锥体压缩性骨折或椎弓根骨折</td><td></td><td></td><td></td></tr><tr><td>骨盆(注3)骨折</td><td>80%</td><td>60%</td><td>15%</td></tr><tr><td>肱骨、股骨(含股骨颈骨折)骨折</td><td></td><td></td><td></td></tr><tr><td>桡骨或尺骨(注4)骨折</td><td>60%</td><td>45%</td><td>10%</td></tr><tr><td>胫骨或腓骨(注5)骨折</td><td></td><td></td><td></td></tr><tr><td>肩胛骨、锁骨、髋骨和胸骨骨折</td><td>40%</td><td>30%</td><td>5%</td></tr><tr><td>其它骨(注6)骨折</td><td>20%</td><td>15%</td><td>5%</td></tr></table>
+
+注：
+```

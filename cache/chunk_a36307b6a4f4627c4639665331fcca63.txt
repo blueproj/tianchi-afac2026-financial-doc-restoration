@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td></td><td>9</td><td>556.16</td><td>581.10</td><td>607.17</td></tr><tr><td></td><td>10</td><td>581.24</td><td>607.31</td><td>634.56</td></tr><tr><td></td><td>11</td><td>607.46</td><td>634.70</td><td>663.19</td></tr><tr><td></td><td>12</td><td>634.85</td><td>663.34</td><td>693.11</td></tr><tr><td></td><td>13</td><td>663.49</td><td>693.26</td><td>724.37</td></tr><tr><td></td><td>14</td><td>693.42</td><td>724.53</td><td>757.04</td></tr><tr><td></td><td>15</td><td>724.68</td><td>757.20</td><td>491.17</td></tr><tr><td></td><td>16</td><td>757.36</td><td>491.33</td><td>513.17</td></tr><tr><td></td><td>17</td><td>491.40</td><td>513.25</td><td>536.05</td></tr></table>
+```

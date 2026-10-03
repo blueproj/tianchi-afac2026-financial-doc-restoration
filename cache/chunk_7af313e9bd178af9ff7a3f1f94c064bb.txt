@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>20</td><td>心包膜切除术</td></tr><tr><td>21</td><td>肝叶切除</td></tr><tr><td>22</td><td>植入大脑内分流器</td></tr><tr><td>23</td><td>双侧睾丸切除术</td></tr><tr><td>24</td><td>双侧卵巢切除术</td></tr><tr><td>25</td><td>心脏瓣膜介入手术</td></tr><tr><td>26</td><td>原发性肺动脉高压</td></tr><tr><td>27</td><td>早期原发性心肌病</td></tr><tr><td>28</td><td>主动脉内手术(非开胸或开腹手术)</td></tr><tr><td>29</td><td>早期系统性硬皮病</td></tr><tr><td>30</td><td>早期象皮病</td></tr><tr><td>31</td><td>因肾上腺皮质腺瘤切除肾上腺</td></tr><tr><td>32</td><td>原位癌</td></tr></table>
+```

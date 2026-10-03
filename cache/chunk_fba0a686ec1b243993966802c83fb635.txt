@@ -1,0 +1,5 @@
+```markdown
+年度/年龄
+
+<table><tr><td>55</td><td>56</td><td>57</td><td>58</td><td>59</td><td>60</td><td>61</td><td>62</td><td>63</td><td>64</td><td>65</td><td>66</td><td>67</td><td>68</td><td>69</td><td>70</td><td>71</td><td>72</td><td>73</td><td>74</td><td>75</td><td>76</td><td>77</td><td>78</td><td>79</td><td>80</td></tr><tr><td>1</td><td>6874</td><td>6998</td><td>7140</td><td>7264</td><td>7054</td><td>7100</td><td>7141</td><td>7177</td><td>7226</td><td>7285</td><td>7320</td><td>7382</td><td>7420</td><td>7466</td><td>7520</td><td>7579</td><td>7629</td><td>7669</td><td>7726</td><td>7770</td><td>7825</td><td>7867</td><td>7916</td><td>7957</td><td>7989</td><td>8019</td></tr><tr><td>2</td><td>7138</td><td>7267</td><td>7415</td><td>7183</td><td>6971</td><td>7013</td><td>7049</td><td>7079</td><td>7122</td><td>7174</td><td>7203</td><td>7257</td><td>7288</td><td>7326</td><td>7370</td><td>7419</td><td>7458</td><td>7487</td><td>7529</td><td>7559</td><td>7597</td><td>7621</td><td>7649</td><td>7668</td><td>7676</td><td>7680</td></tr></table>
+```

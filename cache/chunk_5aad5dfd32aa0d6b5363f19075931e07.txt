@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>保险期间</td><td>交费期间</td><td>年龄 (周岁)</td><td>性别</td><td>第1保单年度末</td><td>第2保单年度末</td></tr><tr><td>5年</td><td>趸交</td><td>0</td><td>男</td><td>921.45</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>1</td><td>男</td><td>921.45</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>2</td><td>男</td><td>921.44</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>3</td><td>男</td><td>921.44</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>4</td><td>男</td><td>921.44</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>5</td><td>男</td><td>921.44</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>6</td><td>男</td><td>921.44</td><td>967.50</td></tr><tr><td>5年</td><td>趸交</td><td>7</td><td>男</td><td>921.44</td><td>967.50</td></tr></table>
+```

@@ -1,0 +1,8 @@
+# AFAC2026 赛题二 提交工程运行依赖
+# 运行环境：Python 3.11（开发环境 3.11.15）
+requests>=2.25.0
+numpy>=1.21.0
+Pillow>=9.0.0
+# opencv 用于表格线检测/画线。默认装 opencv-python；
+# 若运行环境无桌面环境（import cv2 报 libGL 错），可换装 opencv-python-headless（API 完全一致）
+opencv-python>=4.5.0

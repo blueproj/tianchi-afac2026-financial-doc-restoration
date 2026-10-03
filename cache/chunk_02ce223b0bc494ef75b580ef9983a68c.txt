@@ -1,0 +1,5 @@
+```markdown
+投保年龄
+
+<table><thead><tr><th>保单年度</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tbody><tr><td>1</td><td>931.20</td><td>931.19</td><td>931.18</td><td>931.17</td><td>931.17</td><td>931.17</td><td>931.17</td></tr><tr><td>2</td><td>982.40</td><td>982.39</td><td>982.38</td><td>982.38</td><td>982.38</td><td>982.38</td><td>982.38</td></tr><tr><td>3</td><td>1036.43</td><td>1036.42</td><td>1036.41</td><td>1036.41</td><td>1036.41</td><td>1036.40</td><td>1036.40</td></tr><tr><td>4</td><td>1093.42</td><td>1093.41</td><td>1093.41</td><td>1093.41</td><td>1093.40</td><td>1093.40</td><td>1093.40</td></tr><tr><td>5</td><td>1153.56</td><td>1153.55</td><td>1153.54</td><td>1153.54</td><td>1153.54</td><td>1153.54</td><td>1153.54</td></tr><tr><td>6</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></tbody></table>
+```

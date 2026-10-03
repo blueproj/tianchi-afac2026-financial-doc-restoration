@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>15</td><td>瘫痪</td></tr><tr><td>16</td><td>心脏瓣膜手术</td></tr><tr><td>17</td><td>严重阿尔茨海默病</td></tr><tr><td>18</td><td>严重脑损伤</td></tr><tr><td>19</td><td>严重原发性帕金森病</td></tr><tr><td>20</td><td>严重III度烧伤</td></tr><tr><td>21</td><td>严重特发性肺动脉高压</td></tr><tr><td>22</td><td>严重运动神经元病</td></tr><tr><td>23</td><td>语言能力丧失——三周岁后始理赔</td></tr><tr><td>24</td><td>重型再生障碍性贫血</td></tr><tr><td>25</td><td>主动脉手术</td></tr></table>
+```

@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>保险期间</td><td>终身</td></tr><tr><td>交费期间</td><td>3年交</td></tr><tr><td>性别</td><td>男性</td></tr></table>
+```

@@ -1,0 +1,5 @@
+```markdown
+<table><tr><td>13</td><td>中度克雅氏症</td></tr><tr><td>14</td><td>中度重症肌无力</td></tr><tr><td>15</td><td>中度溃疡性结肠炎</td></tr><tr><td>16</td><td>出血性登革热</td></tr><tr><td>17</td><td>特定周围动脉疾病的血管介入治疗</td></tr><tr><td>18</td><td>于颈动脉进行血管成形术或内膜切除术</td></tr><tr><td>19</td><td>单个肢体缺失</td></tr><tr><td>20</td><td>中度脑炎或脑膜炎后遗症</td></tr></table>
+
+<table><tr><td colspan="2">重大疾病</td></tr><tr><td>01</td><td>恶性肿瘤——重度</td></tr><tr><td>02</td><td>较重急性心肌梗死</td></tr><tr><td>03</td><td>严重脑中风后遗症</td></tr><tr><td>04</td><td>重大器官移植术或造血干细胞移植术</td></tr><tr><td>05</td><td>冠状动脉搭桥术(或称冠状动脉旁路移植术)</td></tr><tr><td>06</td><td>严重慢性肾衰竭</td></tr><tr><td>07</td><td>多个肢体缺失</td></tr></table>
+```

@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>41</td><td>急性坏死性胰腺炎开腹手术</td></tr><tr><td>42</td><td>系统性硬皮病</td></tr><tr><td>43</td><td>慢性复发性胰腺炎</td></tr><tr><td>44</td><td>严重肌营养不良症</td></tr><tr><td>45</td><td>溶血性链球菌引起的坏疽</td></tr><tr><td>46</td><td>因职业关系导致的HIV感染</td></tr><tr><td>47</td><td>植物人状态</td></tr><tr><td>48</td><td>亚历山大病</td></tr><tr><td>49</td><td>阿尔茨海默病所致严重痴呆</td></tr><tr><td>50</td><td>严重冠状动脉粥样硬化性心脏病</td></tr><tr><td>51</td><td>多发性硬化</td></tr></table>
+```

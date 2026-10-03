@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>5年</td><td>趸交</td><td>0</td><td>女</td><td>921.44</td></tr><tr><td>5年</td><td>趸交</td><td>1</td><td>女</td><td>921.44</td></tr><tr><td>5年</td><td>趸交</td><td>2</td><td>女</td><td>921.44</td></tr><tr><td>5年</td><td>趸交</td><td>3</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>4</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>5</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>6</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>7</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>8</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>9</td><td>女</td><td>921.43</td></tr><tr><td>5年</td><td>趸交</td><td>10</td><td>女</td><td>921.43</td></tr></table>
+```

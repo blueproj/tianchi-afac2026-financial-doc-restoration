@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>第3保单年度末</td><td>第4保单年度末</td><td>第5保单年度末</td><td>第6保单年度末</td><td>第7保单年度末</td></tr><tr><td>1015.87</td><td>1066.67</td><td>0.00</td><td></td><td></td></tr><tr><td>1015.87</td><td>1066.67</td><td>0.00</td><td></td><td></td></tr><tr><td>1015.87</td><td>1066.67</td><td>0.00</td><td></td><td></td></tr><tr><td>1015.87</td><td>1066.67</td><td>0.00</td><td></td><td></td></tr><tr><td>1015.87</td><td>1066.67</td><td>0.00</td><td></td><td></td></tr><tr><td>1015.87</td><td>1066.67</td><td>0.00</td><td></td><td></td></tr></table>
+```

@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>保险期间</td><td>交费期限</td><td>性别</td><td>投保年龄</td><td>保单年度</td><td>保单年度末现金价值(不含年末生存给付)</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>0</td><td>1</td><td>638.97</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>0</td><td>2</td><td>1538.34</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>0</td><td>3</td><td>2574.13</td></tr><tr><td>保10年</td><td>3</td><td>男性</td><td>0</td><td>4</td><td>2702.73</td></tr></table>
+```

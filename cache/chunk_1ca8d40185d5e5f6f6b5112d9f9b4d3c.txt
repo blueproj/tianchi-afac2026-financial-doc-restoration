@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>05</td><td>中度慢性呼吸功能衰竭</td></tr><tr><td>06</td><td>病毒性肝炎导致的肝硬化</td></tr><tr><td>07</td><td>脑垂体瘤、脑囊肿、脑动脉瘤及脑血管瘤</td></tr><tr><td>08</td><td>角膜移植</td></tr><tr><td>09</td><td>单目失明——三周岁后始理赔</td></tr><tr><td>10</td><td>植入心脏起搏器</td></tr><tr><td>11</td><td>轻度面部烧伤</td></tr><tr><td>12</td><td>面部重建手术</td></tr><tr><td>13</td><td>微创颅脑手术</td></tr><tr><td>14</td><td>特定的系统性红斑狼疮</td></tr><tr><td>15</td><td>视力严重受损——三周岁后始理赔</td></tr><tr><td>16</td><td>慢性肝功能衰竭</td></tr><tr><td>17</td><td>全身较小面积III度烧伤</td></tr><tr><td>18</td><td>冠状动脉介入手术</td></tr><tr><td>19</td><td>肾脏切除</td></tr></table>
+```

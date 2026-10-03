@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>26</td><td>严重慢性呼吸衰竭</td></tr><tr><td>27</td><td>严重克罗恩病</td></tr><tr><td>28</td><td>严重溃疡性结肠炎</td></tr><tr><td>29</td><td>胰腺移植</td></tr><tr><td>30</td><td>埃博拉病毒感染</td></tr><tr><td>31</td><td>丝虫病所致象皮肿</td></tr><tr><td>32</td><td>主动脉夹层血肿</td></tr><tr><td>33</td><td>克雅氏病</td></tr><tr><td>34</td><td>破裂脑动脉瘤夹闭手术</td></tr><tr><td>35</td><td>经输血导致的HIV感染</td></tr><tr><td>36</td><td>原发性硬化性胆管炎</td></tr><tr><td>37</td><td>特发性慢性肾上腺皮质功能减退</td></tr><tr><td>38</td><td>系统性红斑狼疮-(并发)III型或以上狼疮性肾炎</td></tr><tr><td>39</td><td>严重类风湿性关节炎</td></tr></table>
+```

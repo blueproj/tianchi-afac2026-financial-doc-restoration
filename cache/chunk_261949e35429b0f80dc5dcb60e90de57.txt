@@ -1,0 +1,19 @@
+```markdown
+# 乳头状或滤泡状癌（分化型）
+
+## 年龄<55岁
+
+<table><thead><tr><th></th><th>T</th><th>N</th><th>M</th></tr></thead><tbody><tr><td>Ⅰ期</td><td>任何</td><td>任何</td><td>0</td></tr><tr><td>Ⅱ期</td><td>任何</td><td>任何</td><td>1</td></tr></tbody></table>
+
+## 年龄≥55岁
+
+<table><tbody><tr><td rowspan="2">Ⅰ期</td><td>1</td><td>0/x</td><td>0</td></tr><tr><td>2</td><td>0/x</td><td>0</td></tr><tr><td rowspan="2">Ⅱ期</td><td>1~2</td><td>1</td><td>0</td></tr><tr><td>3a~3b</td><td>任何</td><td>0</td></tr><tr><td>Ⅲ期</td><td>4a</td><td>任何</td><td>0</td></tr><tr><td>ⅣA期</td><td>4b</td><td>任何</td><td>0</td></tr><tr><td>ⅣB期</td><td>任何</td><td>任何</td><td>1</td></tr></tbody></table>
+
+## 髓样癌（所有年龄组）
+
+<table><tbody><tr><td>Ⅰ期</td><td>1</td><td>0</td><td>0</td></tr><tr><td>Ⅱ期</td><td>2~3</td><td>0</td><td>0</td></tr><tr><td>Ⅲ期</td><td>1~3</td><td>1a</td><td>0</td></tr><tr><td rowspan="2">ⅣA期</td><td>4a</td><td>任何</td><td>0</td></tr><tr><td>1~3</td><td>1b</td><td>0</td></tr><tr><td>ⅣB期</td><td>4b</td><td>任何</td><td>0</td></tr><tr><td>ⅣC期</td><td>任何</td><td>任何</td><td>1</td></tr></tbody></table>
+
+## 未分化癌（所有年龄组）
+
+<table><tbody><tr><td>ⅣA期</td><td>1~3a</td><td>0/x</td><td>0</td></tr><tr><td rowspan="2">ⅣB期</td><td>1~3a</td><td>1</td><td>0</td></tr><tr><td>3b~4</td><td>任何</td><td>0</td></tr><tr><td>ⅣC期</td><td>任何</td><td>任何</td><td>1</td></tr></tbody></table>
+```

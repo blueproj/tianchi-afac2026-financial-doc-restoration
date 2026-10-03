@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>趸交</td><td>0</td><td>374.27</td><td>390.92</td><td>408.36</td><td>426.62</td><td>445.72</td><td>465.70</td><td>486.59</td><td>508.42</td></tr><tr><td></td><td>1</td><td>391.03</td><td>408.47</td><td>426.73</td><td>445.83</td><td>465.81</td><td>486.69</td><td>508.53</td><td>531.35</td></tr><tr><td></td><td>2</td><td>408.59</td><td>426.84</td><td>445.94</td><td>465.92</td><td>486.81</td><td>508.64</td><td>531.47</td><td>555.32</td></tr><tr><td></td><td>3</td><td>426.96</td><td>446.06</td><td>466.04</td><td>486.93</td><td>508.76</td><td>531.58</td><td>555.44</td><td>580.38</td></tr><tr><td></td><td>4</td><td>446.18</td><td>466.16</td><td>487.05</td><td>508.88</td><td>531.70</td><td>555.56</td><td>580.50</td><td>606.57</td></tr></table>
+```

@@ -1,0 +1,3 @@
+```markdown
+<table><tr><td>52</td><td>全身性(型)重症肌无力</td></tr><tr><td>53</td><td>严重心肌病</td></tr><tr><td>54</td><td>严重心肌炎</td></tr><tr><td>55</td><td>肺淋巴管肌瘤病</td></tr><tr><td>56</td><td>侵蚀性葡萄胎(或称恶性葡萄胎)</td></tr><tr><td>57</td><td>心脏粘液瘤</td></tr><tr><td>58</td><td>感染性心内膜炎</td></tr><tr><td>59</td><td>肝豆状核变性</td></tr><tr><td>60</td><td>肺源性心脏病</td></tr><tr><td>61</td><td>肾髓质囊性病</td></tr><tr><td>62</td><td>严重继发性肺动脉高压</td></tr><tr><td>63</td><td>进行性核上性麻痹</td></tr><tr><td>64</td><td>失去一肢及一眼</td></tr></table>
+```

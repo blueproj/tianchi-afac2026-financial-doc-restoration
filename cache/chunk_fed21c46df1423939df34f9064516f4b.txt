@@ -1,0 +1,5 @@
+```markdown
+# Markdown Parsing Task
+
+Extract the text from the image and convert it to Markdown format.
+```
