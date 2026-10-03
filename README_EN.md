@@ -47,37 +47,15 @@ From the official baseline (histogram-projection striping, ~65 on A-board) to th
 
 ### Overall Workflow
 
-```
-                        Input image
-                           |
-          +----------------+----------------
-          | table-type                     | long-doc-type
-          v                                v
-+-- Level1 region split -----+   +-- Long-doc chunking -------+
-| page -> text/table regions |   | 2-col detect / TOC whole /  |
-+------------+---------------+   | blank-band split            |
-+-- Level1.5 subtable split -+   +-------------+---------------+
-| staircase by right-reset   |                 |
-+------------+---------------+                 |
-+-- Level2 table chunking ---+                 |
-| row/col analysis -> draw   |                 |
-| lines -> rowband x colgrp  |                 |
-+------------+---------------+                 |
-           v                                v
-+------ FinixDoc-VL API concurrent calls (retry / rate-limit / MD5 cache) ------+
-           v                                v
-+-- Reactive error correction+   +-- Vertical merge ----------+
-+-- Banner header reconstruct-+   +-- Heading-level normalize -+
-+-- Merge + doc-level postproc+   +-------------+---------------+
-           +----------------+-------------------+
-                            v
-              submission CSV (file_name, ground_truth)
-```
+![Overall architecture and processing flow](assets/architecture.png)
+
 
 ### Key Innovations
 
 #### 1. Three-level structure-aware splitting + input modulation
 Chunk by **row/column structure** rather than fixed pixels: Level1 region split (text/table separation, fake-table downgrade) → Level1.5 sub-table split (staircase right-edge reset) → Level2 row-band × column-group chunking (each chunk ≤12 rows ×12 cols, side ≤3000px). Input modulation: **draw grid lines** for borderless/semi-bordered tables to supply structural cues; **2x upscale** when short side <80px to prevent hallucination — pushing every chunk into the model's stable working zone.
+
+![Before/after grid-line drawing (borderless table)](assets/gridline_before_after.jpg)
 
 #### 2. Row/column prior (the cross-cutting foundation)
 At chunking time, each chunk's **row/column range is encoded into its filename** (e.g. `chunk_007_r13-24_c13-24`). Merging aligns by the prior; detection knows "returned 10 cols but prior says 12" immediately. Originally for debugging, it became the foundation of all auto-correction.
@@ -87,6 +65,8 @@ Four symptom detections on API output (over-read / missing-col / missing-row / p
 
 #### 4. Banner-header separation & reconstruction
 A column-spanning banner header (e.g. "end of policy year" spanning 46 cols) is an empty row in mid column-groups; the model drops empty rows, shifting the whole column-group up by one ("silent error"). Separate the header band from the body and **programmatically reconstruct rowspan/colspan**; 7 banner tables fully aligned, single-version TEDS **+4.04**.
+
+![Banner header example (column-spanning header annotated)](assets/banner_table.jpg)
 
 #### 5. Long documents: two-column / cross-page / heading levels
 Two-column TOC sent **as a whole block** to preserve reading order + double gating against misjudgment; split points **avoid tables** to keep cross-block tables intact; heading levels **GT-recalibrated** by numbering pattern + dot-depth (capped at L3). Reading-order edit distance **0.008**.
